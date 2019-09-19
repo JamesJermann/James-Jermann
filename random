@@ -1,0 +1,7 @@
+var myRandomNumber = Int.random(in: 0...10)
+
+let fraction = Double.random(in: 0..<1)
+
+let headsOrTails = Bool.random()
+
+myRandomNumber += 1
